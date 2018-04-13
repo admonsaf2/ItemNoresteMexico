@@ -2,3 +2,8 @@
 	path = JayVora-SerpentCS/SerpentCS_Contributions
 	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
 	branch = 11.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 8.0
